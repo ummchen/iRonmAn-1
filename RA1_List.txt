@@ -1,0 +1,29 @@
+林芯電子		10		27.6
+SJ5-43502PM		8.8*2	http://item.taobao.com/item.htm?spm=a230r.1.14.13.JIGLie&id=27585616061&ns=1&_u=o21to8qt43a0
+
+騰飛電子		8		88.58
+JRC4556			2		http://item.taobao.com/item.htm?spm=a1z10.3.w4002-1939228836.26.WtLElk&id=25755596315
+100K VR			40		http://item.taobao.com/item.htm?spm=a1z10.3.w4002-1939228836.43.xxhtuw&id=16400707682
+VR PCB			2.5		http://item.taobao.com/item.htm?spm=a1z10.3.w4002-1939228836.19.yDV8FE&id=2733168200
+4.7uF			5*2		http://item.taobao.com/item.htm?spm=a1z10.3.w4002-1939228836.28.LHHyrp&id=36261979146
+464R			4		http://item.taobao.com/item.htm?spm=a1z10.3.w4002-1939228836.25.n2b5tw&id=38249415998
+464K			4		http://item.taobao.com/item.htm?spm=a1z10.3.w4002-1939228836.13.n2b5tw&id=38249727371
+121K			2		http://item.taobao.com/item.htm?spm=a1z10.3.w4002-1939228836.13.97d5BQ&id=12555131534
+100K			2		http://item.taobao.com/item.htm?spm=a1z10.3.w4002-1939228836.16.GkpGvw&id=15720230689
+12.1K			2		http://item.taobao.com/item.htm?spm=a1z10.3.w4002-1939228836.16.5nhXlk&id=10854250120
+0.01uF			0.88	http://item.taobao.com/item.htm?spm=a1z10.3.w4002-1939228836.26.XvYlp8&id=35229260466
+2000pF			0.4		http://item.taobao.com/item.htm?spm=a1z10.3.w4002-1939228836.22.IVbegS&id=37341803068
+22uF			1.5*2	http://item.taobao.com/item.htm?spm=a1z10.3.w4002-1939228836.59.Z7CtPK&id=15613473047
+3P端子台		0.6*2	http://item.taobao.com/item.htm?spm=2013.1.0.0.6BiM9h&scm=1007.10011.1251.0&id=3275987068&pvid=88e22001-810f-4539-8a9a-39f9cd64cba3
+音源2P端子台	0.4*4	http://item.taobao.com/item.htm?spm=a1z10.3.w4002-1939228836.23.prYMHW&id=21261767099
+電源2P端子台	0.5*2	http://item.taobao.com/item.htm?spm=a1z10.3.w4002-1939228836.29.prYMHW&id=21261703608
+
+JStore			60		325
+3.5mm 4P		15*2	http://goods.ruten.com.tw/item/show?21404183550889
+1N5821			3*2		http://goods.ruten.com.tw/item/show?21402217347913
+5mm 藍LED		50		http://goods.ruten.com.tw/item/show?21405022219020
+DC 2.1mm		15		http://goods.ruten.com.tw/item/show?21403064910044
+開關			23		http://goods.ruten.com.tw/item/show?21405129601922
+旋鈕			16		http://goods.ruten.com.tw/item/show?21403066338040
+助焊			65		http://goods.ruten.com.tw/item/show?21406114306233
+烙鐵架			60		http://goods.ruten.com.tw/item/show?21403065784448
